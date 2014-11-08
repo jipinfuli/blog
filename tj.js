@@ -16,3 +16,4 @@ function count(){
 	}
 }
 //var cheattime="12";function cheat(){if(cheattime<=0){location.href=appurl2;}else{setTimeout('cheat()',999);}cheattime--;}cheat();
+

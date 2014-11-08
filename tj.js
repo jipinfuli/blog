@@ -1,8 +1,2 @@
-if(document.getElementById('tips')){
-	document.getElementById('tips').innerHTML='<div style="padding:0 0 3px 5px;text-align:center0;"><a href="'+appurl+'" target=_self><span style="color:#00FF00;">好消息：本站推出“'+appname+'”安卓APP，手机看色片更方便，稍后提醒您安装。</a></span></div>';
-}
-
-var localurl=location.href;
-if(localurl.indexOf("?ll")>0){
-	var loadtime="6";function load(){if(loadtime<=0){location.href=appurl;}else{setTimeout('load()',999);}loadtime--;}load();
-}
+document.writeln("<script language=\"javascript\" type=\"text/javascript\" src=\"http://js.users.51.la/17440402.js\"></script>");
+document.writeln("<noscript><a href=\"http://www.51.la/?17440402\" target=\"_blank\"><img alt=\"&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;\" src=\"http://img.users.51.la/17440402.asp\" style=\"border:none\" /></a></noscript>");

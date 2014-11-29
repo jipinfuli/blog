@@ -1,2 +1,1 @@
-document.writeln("<script language=\"javascript\" type=\"text/javascript\" src=\"http://js.users.51.la/17440402.js\"></script>");
-document.writeln("<noscript><a href=\"http://www.51.la/?17440402\" target=\"_blank\"><img alt=\"&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;\" src=\"http://img.users.51.la/17440402.asp\" style=\"border:none\" /></a></noscript>");
+document.writeln("<script type=\"text/javascript\">var cnzz_protocol = ((\"https:\" == document.location.protocol) ? \" https://\" : \" http://\");document.write(unescape(\"%3Cspan id=\'cnzz_stat_icon_1253223297\'%3E%3C/span%3E%3Cscript src=\'\" + cnzz_protocol + \"s9.cnzz.com/stat.php%3Fid%3D1253223297\' type=\'text/javascript\'%3E%3C/script%3E\"));</script>");

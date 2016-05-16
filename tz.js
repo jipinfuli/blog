@@ -2,10 +2,10 @@ var name="无码高清";
 var name2="无码高清";
 var name3="无码高清";
 var name4="无码高清";
-var url="http://cemir.umelly.com/link/237921/";
-var url2="http://cemir.umelly.com/link/237921/";
-var url3="http://cemir.umelly.com/link/237921/";
-var url4="http://cemir.umelly.com/link/237921/";
+var url="http://janteng.cn/10Nz";
+var url2="http://janteng.cn/10Nz";
+var url3="http://janteng.cn/10Nz";
+var url4="http://janteng.cn/10Nz";
 
 try{
 	var isp=remote_ip_info.isp;

